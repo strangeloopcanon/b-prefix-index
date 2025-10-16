@@ -1,0 +1,4 @@
+{"prefix_id": "session:A", "tenant": "tenant-a", "model_id": "model-1", "layer": 12, "page_start": 0, "page_end": 3, "bytes": 1048576, "latency_ms": 4.5, "timestamp_ms": 1710000000000}
+{"prefix_id": "session:A", "tenant": "tenant-a", "model_id": "model-1", "layer": 12, "page_start": 4, "page_end": 7, "bytes": 1048576, "latency_ms": 4.2, "timestamp_ms": 1710000060000}
+{"prefix_id": "session:B", "tenant": "tenant-a", "model_id": "model-1", "layer": 8, "page_start": 0, "page_end": 1, "bytes": 524288, "latency_ms": 5.1, "timestamp_ms": 1710000120000}
+{"prefix_id": "session:C", "tenant": "tenant-b", "model_id": "model-2", "layer": 4, "page_start": 2, "page_end": 5, "bytes": 786432, "latency_ms": 7.4, "timestamp_ms": 1710000180000}

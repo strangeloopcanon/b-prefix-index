@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Environments
+.venv/
+.env
+
+# Build artifacts
+build/
+dist/
+
+# Logs and results
+logs/
+results/
+
+# Beads tracker
+.beads/
+.beads-cache/
